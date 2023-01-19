@@ -1,14 +1,14 @@
-# HRN
+# ACL409
 
 ## Dataset resources 
 
-Due to the sensitivity of the dataset, we will publish our dataset after the paper is in manuscript.
+To protect the confidentiality of the legal dataset MultiLJP, we will release it for public use only after our paper has been formally accepted for publication.
 
 ## Training and testing
 
 **1.Download each training dataset**
 
-Due to the sensitivity of the dataset, we will publish our dataset after the paper is in manuscript.
+To protect the confidentiality of the legal dataset MultiLJP, we will release it for public use only after our paper has been formally accepted for publication.
 
 **2.Download mt5-base**
 
