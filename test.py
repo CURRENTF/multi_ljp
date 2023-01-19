@@ -31,7 +31,7 @@ print(device)
 # TRAIN SETTINGS
 epoch = 8
 batch_size = 1
-ex_name = 'case1'
+ex_name = 'complete'
 model_name = 'google/mt5-base'
 model_path = './checkpoint/paras{}'.format(ex_name)
 # model_path = './checkpoint/best_.pkl'
